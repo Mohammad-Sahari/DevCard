@@ -28,3 +28,4 @@ D:\ASP.NET\DevCard\DevCard_MVC\obj\Debug\net8.0\refint\DevCard_MVC.dll
 D:\ASP.NET\DevCard\DevCard_MVC\obj\Debug\net8.0\DevCard_MVC.pdb
 D:\ASP.NET\DevCard\DevCard_MVC\obj\Debug\net8.0\DevCard_MVC.genruntimeconfig.cache
 D:\ASP.NET\DevCard\DevCard_MVC\obj\Debug\net8.0\ref\DevCard_MVC.dll
+D:\ASP.NET\DevCard\DevCard_MVC\obj\Debug\net8.0\DevCard_MVC.sourcelink.json
