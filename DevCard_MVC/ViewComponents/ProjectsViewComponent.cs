@@ -4,9 +4,13 @@ namespace DevCard_MVC.ViewComponents
 {
 	public class ProjectsViewComponent : ViewComponent
 	{
-		public IViewComponentResult invoke()
+		//public IViewComponentResult invoke()
+		//{
+		//	return View("Projects");
+		//}
+		public async Task<IViewComponentResult> InvokeAsync()
 		{
-			return View("_Projects");
+			return View();
 		}
 	}
 }

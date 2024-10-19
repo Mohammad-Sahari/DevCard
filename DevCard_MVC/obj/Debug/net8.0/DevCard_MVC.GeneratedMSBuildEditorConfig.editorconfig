@@ -26,8 +26,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\ASP.NET\DevCard\DevCard_MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ASP.NET/DevCard/DevCard_MVC/Views/Home/Components/Projects/_Projects.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFByb2plY3RzXF9Qcm9qZWN0cy5jc2h0bWw=
+[D:/ASP.NET/DevCard/DevCard_MVC/Views/Home/Components/Projects/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFByb2plY3RzXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP.NET/DevCard/DevCard_MVC/Views/Home/Contact.cshtml]
