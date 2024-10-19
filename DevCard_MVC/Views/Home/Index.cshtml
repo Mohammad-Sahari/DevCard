@@ -34,7 +34,9 @@
 </section>
 
 @* <partial name="Projects"/> *@
-@await Html.PartialAsync("Projects", new list<Project>())
+@* @await Html.PartialAsync("Projects", new list<Project>()) *@
+
+@await Component.InvokeAsync("Projects")
 
 <div class="container">
 	<hr>
