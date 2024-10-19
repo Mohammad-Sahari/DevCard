@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevCard_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4096e0cf8c931c8864aca267ae1071b28aa66834")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevCard_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevCard_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
